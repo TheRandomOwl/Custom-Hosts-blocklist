@@ -1,7 +1,6 @@
-# Block list for mobile devices (Apple)
+# Blocklist for ads and tracking on mobile devices
 0.0.0.0 world-gen.g.aaplimg.com
 0.0.0.0 v-collector.dp.aws.charter.com
-0.0.0.0 ggpht.com
 0.0.0.0 listener.logz.io
 0.0.0.0 clk.apxadtracking.net
 0.0.0.0 agoda.onelink.me
@@ -43,3 +42,22 @@
 0.0.0.0 clicktrpro.com
 0.0.0.0 ads.roblox.com
 0.0.0.0 tr.rbxcdn.com
+#
+# 10-22-2020
+#
+0.0.0.0 slick-prod.s3.us-west-2.amazonaws.com
+0.0.0.0 ds-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+0.0.0.0 trc.taboola.map.fastly.net
+0.0.0.0 iam.datasavannah.com
+0.0.0.0 video-stats.l.google.com
+0.0.0.0 serve.adclixx.net
+0.0.0.0 vs58.tawk.to
+0.0.0.0 sa.etp-prod.com
+0.0.0.0 assoc-na.associates-amazon.com
+0.0.0.0 conversion.datasavannah.com
+0.0.0.0 log.zoom.us
+0.0.0.0 logfiles.zoom.us
+0.0.0.0 airlytics-configuration-production.pi.spectrum.net
+0.0.0.0 splunk.spectrum.net
+0.0.0.0 charter-analytics.smithmicro.com
+0.0.0.0 mrm.mdc.timewarnercable.com
